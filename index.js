@@ -4,5 +4,6 @@ function add(a, b) {
 }
 
 function subtract(a, b) {
-
+  var number = a - b
+  return number
 }
