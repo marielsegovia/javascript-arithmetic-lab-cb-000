@@ -14,5 +14,6 @@ function multiply(a, b) {
 }
 
 function divide(a, b){
-  var number = a / b
+  var number = a / b;
+  return number;
 }
